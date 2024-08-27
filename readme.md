@@ -359,7 +359,7 @@ Program push the data to Firebase database
 
 <hr />
 
-Warning:
+## Warning:
 When the program sends data, it deletes data already in the database. So if you run this program, your data which is already on your Firebase will be removed.
 
 <hr />
