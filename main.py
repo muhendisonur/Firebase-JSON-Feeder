@@ -13,7 +13,7 @@ has_error = False
 #access to firebase and raising it by specific database URL 
 key = credentials.Certificate("firebase-config.json")
 firebase_admin.initialize_app(key, {
-        'databaseURL' : 'https://karadeniz2-77e9c-default-rtdb.firebaseio.com/'
+        'databaseURL' : 'https://muhendisonur.firebaseio.com/'
     })
 
 #this function gets json data from an URL and returns it as dict data type
